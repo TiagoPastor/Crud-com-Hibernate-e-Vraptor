@@ -9,6 +9,8 @@ import br.com.livraria.util.HibernateUtil;
 
 public class CriandoAsTabelas {
 	
+	// Criando as tabelas do banco de dados
+	
 	@Test
 	@Ignore
 	public void criar(){
